@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* HERO IMAGE */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +60,7 @@ p {
     background-position: center;
 }
 
+/* BODY MAIN/PRIMARY CONTENTS FORMATTING */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +77,7 @@ p {
     margin-left: 20px;
 }
 
+/* BODY SECONDARY CONTENTS */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +137,7 @@ p {
     max-width: 150px;
 }
 
+/* BODY MAIN/PRIMARY CONTENTS TEXT */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +165,7 @@ p {
     color: #ffffff;
 }
 
+/* BODY MAIN/PRIMARY CONTENTS IMAGES */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -173,6 +178,7 @@ p {
     max-height: 200px;
 }
 
+/* NAVIGATION BAR CONTENTS */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -188,6 +194,7 @@ p {
     font-size: 36px;
 }
 
+/* FOOTER */
 .footer {
     padding: 30px;
     clear: both;
